@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Aditya Kumar!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-kumar-exe&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-kumar-exe" /> </p>
 
 🎓 **Cloud Computing Enthusiast**  
 I'm a student specializing in **Cloud Computing and Big Data**, passionate about harnessing the power of cloud platforms to create scalable and efficient solutions.  

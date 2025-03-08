@@ -20,7 +20,6 @@ I'm a student specializing in **Cloud Computing and Big Data**, passionate about
 
 📫 **Get in Touch**  
 Feel free to connect with me:  
-- [GitHub Profile](https://github.com/aditya-kumar-exe)  
 - [LinkedIn](https://www.linkedin.com/in/aditya-kumar-61a8a830a/)  
 
 🌟 **Fun Fact**  
